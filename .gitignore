@@ -21,6 +21,7 @@
 out/
 .idea/
 pom.xml
+src/main/resources/application.properties
 *.iml
 src/main/resources/hibernate.cfg.xml
 
